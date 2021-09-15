@@ -14,7 +14,7 @@ export const Dashboard = () => {
           color: "#2C8CF4",
         }}
       >
-        Welcome User
+        Welcome Sinkumen
       </Title>
       <Row style={{ marginTop: 30 }}>
         <Col>
